@@ -1,0 +1,1 @@
+{ "expo": { "name": "TAJ VPN", "slug": "taj-vpn", "version": "1.0.0", "orientation": "portrait", "userInterfaceStyle": "dark", "android": { "package": "com.tajvpn.app" }, "ios": { "bundleIdentifier": "com.tajvpn.app" } } }
